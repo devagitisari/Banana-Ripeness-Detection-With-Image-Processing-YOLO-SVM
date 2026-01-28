@@ -24,6 +24,4 @@ This project focuses on detecting banana ripeness using image processing and mac
 YOLO model weights (`best.pt`) and image dataset are not included in this repository due to file size limitations.
 
 ## Author
-Deva Gitisari
-Nayla Natania Putri
-Restu Putri Nisrina
+Deva Gitisari, Nayla Natania Putri & Restu Putri Nisrina
